@@ -1,7 +1,5 @@
 ### Hi 👋
 
-## WORKS
-1. 스피드옥션 (2023.05.04 ~ )
 
 ## SKILLS
 
@@ -25,3 +23,10 @@
 ![photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 ![illust](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+
+***
+
+## WORKS
+
+1. 스피드옥션 (2023.05.04 ~ ) : 퍼블리셔(사이트 리뉴얼 html, css, js 작업 / 웹모바일 사이즈 html, css, js 작업 / 뉴스레터 html 작업 / 배너 디자인)
