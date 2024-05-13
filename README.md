@@ -1,7 +1,5 @@
 ### Hi 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jihana030)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jihana030)](https://github.com/anuraghazra/github-readme-stats)
 
 ## SKILLS
 
@@ -27,10 +25,16 @@
 ![figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jihana030)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jihana030)](https://github.com/anuraghazra/github-readme-stats)
+
 ***
 
 ## WORKS
-
+<details>
+<summary>
 1. 스피드옥션 (2023.05.04 ~ )
-
+</summary>
    퍼블리셔(사이트 리뉴얼 html, css, js 작업 / 웹모바일 사이즈 html, css, js 작업 / 뉴스레터 html 작업 / 배너 디자인)
+</details>
+
